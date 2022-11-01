@@ -54,5 +54,264 @@
     "category_name": "Life",
     "quote": "Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. At the end of the day, you put all the work in, and eventually it’ll pay off. It could be in a year, it could be in 30 years. Eventually, your hard work will pay off.",
     "by": "Kevin Hart"
+  },
+  {
+    "id": "LOVE009",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "I've never had a moment's doubt. I love you. I believe in you completely. You are my dearest one. My reason for life.",
+    "by": "Ian McEwan"
+  },
+  {
+    "id": "LOVE010",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "You have bewitched me, body and soul, and I love, I love, I love you. I never wish to be parted from you from this day on.",
+    "by": "Pride and Prejudice"
+  },
+  {
+    "id": "LOVE011",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "I said I love you and that's forever And this I promise from the heart, I could not love you any better, I love you just the way you are.",
+    "by": "Billy Joel"
+  },
+  {
+    "id": "LOVE012",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "I love you. I knew it the minute I met you. I'm sorry it took so long for me to catch up. I just got stuck.",
+    "by": "Silver Linings Playbook"
+  },
+  {
+    "id": "LOVE013",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "You should know how great things were before you. Even so, they're better still today. I can't think of who I was before you ruined everything in the nicest way.",
+    "by": "Jonathan Coulton"
+  },
+  {
+    "id": "LOVE014",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "But the you who you are tonight is the same you I was in love with yesterday, the same you I'll be in love with tomorrow.",
+    "by": "Gayle Forman"
+  },
+  {
+    "id": "LOVE015",
+    "category_id": "love",
+    "category_name": "Love",
+    "quote": "We are made of particles that existed since the moment the universe began. I like to think those atoms travelled 14 billion years through time and space to create us so that we could be together and make each other whole.",
+    "by": "The Big Bang Theory"
+  },
+  {
+    "id": "FRIENDSHIP016",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "Friendship is the hardest thing in the world to explain. It’s not something you learn in school. But if you haven’t learned the meaning of friendship, you really haven’t learned anything.",
+    "by": "Muhammad Ali"
+  },
+  {
+    "id": "FRIENDSHIP017",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "Each friend represents a world in us, a world possibly not born until they arrive, and it is only by this meeting that a new world is born.",
+    "by": "Anais Nin"
+  },
+  {
+    "id": "FRIENDSHIP018",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "For beautiful eyes, look for the good in others; for beautiful lips, speak only words of kindness; and for poise, walk with the knowledge that you are never alone.",
+    "by": "Audrey Hepburn"
+  },
+  {
+    "id": "FRIENDSHIP019",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "Happiness can be found even in the darkest of times, if one only remembers to turn on the light.",
+    "by": "Dumbledore"
+  },
+  {
+    "id": "FRIENDSHIP020",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
+    "by": "Unknown"
+  },
+  {
+    "id": "FRIENDSHIP021",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+    "by": "Oprah Winfrey"
+  },
+  {
+    "id": "FRIENDSHIP022",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "We weren’t sisters [or brothers] by birth, but we knew from the start…fate brought us together to be sisters [or brothers] by heart.",
+    "by": "Unknown"
+  },
+  {
+    "id": "FRIENDSHIP023",
+    "category_id": "friendship",
+    "category_name": "Friendship",
+    "quote": "Friends are those rare people who ask how we are and then wait to hear the answer.",
+    "by": "Ed Cunningham"
+  },
+  {
+    "id": "MOTIVATIONAL024",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "We cannot solve problems with the kind of thinking we employed when we came up with them.",
+    "by": "Albert Einstein"
+  },
+  {
+    "id": "MOTIVATIONAL025",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "Stay away from those people who try to disparage your ambitions. Small minds will always do that, but great minds will give you a feeling that you can become great too.",
+    "by": "Mark Twain"
+  },
+  {
+    "id": "MOTIVATIONAL026",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "Nature has given us all the pieces required to achieve exceptional wellness and health, but has left it to us to put these pieces together.",
+    "by": "Diane McLaren"
+  },
+  {
+    "id": "MOTIVATIONAL027",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "Nothing in the world can take the place of Persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. The slogan 'Press On' has solved and always will solve the problems of the human race.",
+    "by": "Calvin Coolidge"
+  },
+  {
+    "id": "MOTIVATIONAL028",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "There are three ways to ultimate success: The first way is to be kind. The second way is to be kind. The third way is to be kind.",
+    "by": "Mister Rogers"
+  },
+  {
+    "id": "MOTIVATIONAL029",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty.",
+    "by": "Winston Churchill"
+  },
+  {
+    "id": "MOTIVATIONAL030",
+    "category_id": "motivational",
+    "category_name": "Motivational",
+    "quote": "You learn more from failure than from success. Don’t let it stop you. Failure builds character.",
+    "by": "Unknown"
+  },
+  {
+    "id": "RANDOM030",
+    "category_id": "random",
+    "category_name": "Random",
+    "by": "Alexander Graham Bell",
+    "quote": "Concentrate all your thoughts upon the work in hand. The sun's rays do not burn until brought to a focus."
+  },
+  {
+    "id": "RANDOM031",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "I would rather die of passion than of boredom.",
+    "by": "Vincent van Gogh"
+  },
+  {
+    "id": "RANDOM032",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "A truly rich man is one whose children run into his arms when his hands are empty.",
+    "by": "Unknown"
+  },
+  {
+    "id": "RANDOM033",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "It is not what you do for your children, but what you have taught them to do for themselves, that will make them successful human beings.",
+    "by": "Ann Landers"
+  },
+  {
+    "id": "RANDOM034",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "If you want your children to turn out well, spend twice as much time with them, and half as much money.",
+    "by": "Abigail Van Buren"
+  },
+  {
+    "id": "RANDOM035",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "Build your own dreams, or someone else will hire you to build theirs.",
+    "by": "Farrah Gray"
+  },
+  {
+    "id": "RANDOM036",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "The battles that count aren’t the ones for gold medals. The struggles within yourself–the invisible battles inside all of us–that’s where it’s at.",
+    "by": "Jesse Owens"
+  },
+  {
+    "id": "RANDOM037",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "Education costs money.  But then so does ignorance.",
+    "by": "Sir Claus Moser"
+  },
+  {
+    "id": "RANDOM038",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "I have learned over the years that when one’s mind is made up, this diminishes fear.",
+    "by": "Rosa Parks"
+  },
+  {
+    "id": "RANDOM039",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "by": "Confucius"
+  },
+  {
+    "id": "RANDOM040",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+    "by": "Oprah Winfrey"
+  },
+  {
+    "id": "RANDOM041",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "Remember that not getting what you want is sometimes a wonderful stroke of luck.",
+    "by": "Dalai Lama"
+  },
+  {
+    "id": "RANDOM042",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "You can’t use up creativity.  The more you use, the more you have.",
+    "by": "Maya Angelou"
+  },
+  {
+    "id": "RANDOM043",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "Dream big and dare to fail.",
+    "by": "Norman Vaughan"
+  },
+  {
+    "id": "RANDOM044",
+    "category_id": "random",
+    "category_name": "Random",
+    "quote": "Our lives begin to end the day we become silent about things that matter.",
+    "by": "Martin Luther King Jr."
   }
 ]
