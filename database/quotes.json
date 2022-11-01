@@ -1,0 +1,58 @@
+[
+  {
+    "id": "LIFE001",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "The purpose of our lives is to be happy.",
+    "by": "Dalai Lama"
+  },
+  {
+    "id": "LIFE002",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "Life is what happens when you're busy making other plans.",
+    "by": "John Lennon"
+  },
+  {
+    "id": "LIFE003",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+    "by": "Thomas A. Edison"
+  },
+  {
+    "id": "LIFE004",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+    "by": "Albert Einstein"
+  },
+  {
+    "id": "LIFE005",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.",
+    "by": "Steve Jobs"
+  },
+  {
+    "id": "LIFE006",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.",
+    "by": "Henry Ford"
+  },
+  {
+    "id": "LIFE007",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.",
+    "by": "Attributed to various sources"
+  },
+  {
+    "id": "LIFE008",
+    "category_id": "life",
+    "category_name": "Life",
+    "quote": "Everybody wants to be famous, but nobody wants to do the work. I live by that. You grind hard so you can play hard. At the end of the day, you put all the work in, and eventually it’ll pay off. It could be in a year, it could be in 30 years. Eventually, your hard work will pay off.",
+    "by": "Kevin Hart"
+  }
+]
