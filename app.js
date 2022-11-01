@@ -8,7 +8,14 @@ const categories = require("./database/categories.json");
 const cuotes = require("./database/quotes.json");
 const shuffle = require("./helpers/shuffle");
 
-app.use(cors());
+app.use(
+  cors({
+    origin: "*",
+    methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+    preflightContinue: false,
+    optionsSuccessStatus: 204,
+  })
+);
 app.use(express.json());
 
 app.get("/", (req, res) => {
