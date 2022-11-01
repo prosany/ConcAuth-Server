@@ -7,6 +7,7 @@
 ### Category by ID
 
 - https://concauth.onrender.com/category/{category_id}
+- https://concauth.onrender.com/category/life
 - https://concauth.onrender.com/category/all (To Get All The Quotes)
 
 ### Single Quote
