@@ -1,4 +1,7 @@
 [
   { "id": "life", "category_name": "Life" },
-  { "id": "friend", "category_name": "Friends" }
+  { "id": "love", "category_name": "Love" },
+  { "id": "friendship", "category_name": "Friendship" },
+  { "id": "motivational", "category_name": "Motivational" },
+  { "id": "random", "category_name": "Random" }
 ]
